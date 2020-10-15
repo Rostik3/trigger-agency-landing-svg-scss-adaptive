@@ -8,5 +8,5 @@ Adaptive landing page for marketing agency Trigger
 - mapboxGL
 - svg
 
-#### Deployed version
+## Deployed version
  http://trigger.com.ua
